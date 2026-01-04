@@ -15,6 +15,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 002 | Python Operators | [Day 002](./Day002) |
 | 003 | Conditional Statements | [Day 003](./Day003) |
 | 004 | For Loops | [Day 004](./Day004) |
+| 005 | While Loops | [Day 005](./Day005) |
 
 ## Author
 
