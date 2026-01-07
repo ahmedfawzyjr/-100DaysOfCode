@@ -17,6 +17,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 004 | For Loops | [Day 004](./Day004) |
 | 005 | While Loops | [Day 005](./Day005) |
 | 006 | Python Lists | [Day 006](./Day006) |
+| 007 | Python Tuples | [Day 007](./Day007) |
 
 ## Author
 
