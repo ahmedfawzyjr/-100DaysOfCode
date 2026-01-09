@@ -20,6 +20,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 007 | Python Tuples | [Day 007](./Day007) |
 | 008 | Dictionaries | [Day 008](./Day008) |
 | 009 | Sets | [Day 009](./Day009) |
+| 010 | Functions - Basics | [Day 010](./Day010) |
 
 ## Author
 
