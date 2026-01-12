@@ -1,32 +1,35 @@
-# Day 012 Notes
+# Day 012 Notes: File Handling - Reading
 
 ## Key Takeaways
-- Understanding file handling - reading
-- Practical applications
-- Best practices
+- The `open()` function is the gateway to file handling.
+- Always use context managers (`with` statement) to ensure files are closed properly.
+- Different methods exist for reading: `read()` for all, `readline()` for one line, `readlines()` for a list.
 
 ## Important Concepts
-- Concept 1: Core principles
-- Concept 2: Implementation details
-- Concept 3: Common patterns
+- **Context Managers**: The `with open(...)` syntax automatically handles file closing, even if errors occur.
+- **File Modes**: 'r' is for reading (default).
+- **Cursors**: Reading moves the file cursor. You can't read the same content twice without seeking back.
 
 ## Code Snippets
 ```python
-# Example code for File Handling - Reading
-# Add your notes here
+# Best practice: Use 'with'
+with open('example.txt', 'r') as file:
+    content = file.read()
+    print(content)
+
+# Reading line by line (memory efficient)
+with open('large_file.txt', 'r') as file:
+    for line in file:
+        print(line.strip())
 ```
 
 ## Common Pitfalls
-- Watch out for edge cases
-- Consider performance implications
-- Follow best practices
+- Forgetting to close the file (solved by `with`).
+- Assuming the file exists without error handling (`try-except FileNotFoundError`).
+- Reading a huge file entirely into memory with `read()` instead of iterating.
 
 ## Practice Ideas
-- Build a mini project
-- Solve related problems
-- Explore advanced features
+- Write a script to count words in a text file.
+- Create a log reader that filters for "ERROR".
+- Read a CSV file manually (before using the csv module).
 
-## Resources for Further Learning
-- Documentation
-- Tutorials
-- Community forums

@@ -23,6 +23,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 010 | Functions - Basics | [Day 010](./Day010) |
 | 011 | Functions - Advanced | [Day 011](./Day011) |
 | 012 | File Handling - Reading | [Day 012](./Day012) |
+| 013 | File Handling - Writing | [Day 013](./Day013) |
 
 ## Author
 
