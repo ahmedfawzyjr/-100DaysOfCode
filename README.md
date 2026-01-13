@@ -24,6 +24,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 011 | Functions - Advanced | [Day 011](./Day011) |
 | 012 | File Handling - Reading | [Day 012](./Day012) |
 | 013 | File Handling - Writing | [Day 013](./Day013) |
+| 014 | Exception Handling | [Day 014](./Day014) |
 
 ## Author
 
