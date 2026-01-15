@@ -26,6 +26,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 013 | File Handling - Writing | [Day 013](./Day013) |
 | 014 | Exception Handling | [Day 014](./Day014) |
 | 015 | Modules and Imports | [Day 015](./Day015) |
+| 016 | String Methods | [Day 016](./Day016) |
 
 ## Author
 
