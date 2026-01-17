@@ -28,6 +28,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 015 | Modules and Imports | [Day 015](./Day015) |
 | 016 | String Methods | [Day 016](./Day016) |
 | 017 | Regular Expressions | [Day 017](./Day017) |
+| 018 | Date and Time | [Day 018](./Day018) |
 
 ## Author
 
