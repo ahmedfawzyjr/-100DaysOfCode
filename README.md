@@ -31,6 +31,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 018 | Date and Time | [Day 018](./Day018) |
 | 019 | List Comprehensions - Advanced | [Day 019](./Day019) |
 | 020 | Dictionary Comprehensions | [Day 020](./Day020) |
+| 021 | Linear Search | [Day 021](./Day021) |
 
 ## Author
 
