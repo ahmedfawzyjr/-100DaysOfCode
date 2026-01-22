@@ -33,6 +33,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 020 | Dictionary Comprehensions | [Day 020](./Day020) |
 | 021 | Linear Search | [Day 021](./Day021) |
 | 022 | Binary Search | [Day 022](./Day022) |
+| 023 | Bubble Sort | [Day 023](./Day023) |
 
 ## Author
 
