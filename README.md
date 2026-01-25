@@ -36,6 +36,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 023 | Bubble Sort | [Day 023](./Day023) |
 | 024 | Selection Sort | [Day 024](./Day024) |
 | 025 | Insertion Sort | [Day 025](./Day025) |
+| 026 | Merge Sort | [Day 026](./Day026) |
 
 ## Author
 
