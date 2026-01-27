@@ -38,6 +38,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 025 | Insertion Sort | [Day 025](./Day025) |
 | 026 | Merge Sort | [Day 026](./Day026) |
 | 027 | Quick Sort | [Day 027](./Day027) |
+| 028 | Stack Implementation | [Day 028](./Day028) |
 
 ## Author
 
