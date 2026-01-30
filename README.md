@@ -40,6 +40,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 027 | Quick Sort | [Day 027](./Day027) |
 | 028 | Stack Implementation | [Day 028](./Day028) |
 | 029 | Queue Implementation | [Day 029](./Day029) |
+| 030 | Linked List | [Day 030](./Day030) |
 
 ## Author
 
