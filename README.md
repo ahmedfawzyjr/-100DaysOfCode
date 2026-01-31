@@ -41,6 +41,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 028 | Stack Implementation | [Day 028](./Day028) |
 | 029 | Queue Implementation | [Day 029](./Day029) |
 | 030 | Linked List | [Day 030](./Day030) |
+| 031 | Binary Tree | [Day 031](./Day031) |
 
 ## Author
 
