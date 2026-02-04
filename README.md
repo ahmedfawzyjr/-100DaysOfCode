@@ -45,6 +45,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 032 | Tree Traversal | [Day 032](./Day032) |
 | 033 | Hash Tables | [Day 033](./Day033) |
 | 034 | Recursion Basics | [Day 034](./Day034) |
+| 035 | Dynamic Programming Intro | [Day 035](./Day035) |
 
 ## Author
 
