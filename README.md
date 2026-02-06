@@ -48,7 +48,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 035 | Dynamic Programming Intro | [Day 035](./Day035) |
 | 036 | Fibonacci Optimization | [Day 036](./Day036) |
 | 037 | Graph Representation | [Day 037](./Day037) |
-
+| 038 | BFS Algorithm | [Day 038](./Day038) |
 
 ## Author
 
