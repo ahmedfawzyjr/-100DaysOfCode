@@ -50,7 +50,9 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 037 | Graph Representation | [Day 037](./Day037) |
 | 038 | BFS Algorithm | [Day 038](./Day038) |
 | 039 | DFS Algorithm | [Day 039](./Day039) |
+| 040 | Algorithm Complexity | [Day 040](./Day040) |
 | 041 | HTML Basics | [Day 041](./Day041) |
+| 042 | CSS Fundamentals | [Day 042](./Day042) |
 
 
 
