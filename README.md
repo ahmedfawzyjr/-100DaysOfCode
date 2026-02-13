@@ -54,6 +54,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 041 | HTML Basics | [Day 041](./Day041) |
 | 042 | CSS Fundamentals | [Day 042](./Day042) |
 | 043 | JavaScript Basics | [Day 043](./Day043) |
+| 044 | DOM Manipulation | [Day 044](./Day044) |
 
 
 
