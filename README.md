@@ -55,8 +55,8 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 042 | CSS Fundamentals | [Day 042](./Day042) |
 | 043 | JavaScript Basics | [Day 043](./Day043) |
 | 044 | DOM Manipulation | [Day 044](./Day044) |
-| 045 | Event Handling | [Day 045](./Day045) |
-| 046 | Forms and Validation | [Day 046](./Day046) |
+| 045 | Flask Introduction | [Day 045](./Day045) |
+| 046 | Flask Routes | [Day 046](./Day046) |
 
 
 
