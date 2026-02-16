@@ -57,7 +57,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 044 | DOM Manipulation | [Day 044](./Day044) |
 | 045 | Flask Introduction | [Day 045](./Day045) |
 | 046 | Flask Routes | [Day 046](./Day046) |
-
+| 047 | Flask Templates | [Day 047](./Day047) |
 
 
 ## Author
