@@ -59,6 +59,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 046 | Flask Routes | [Day 046](./Day046) |
 | 047 | Flask Templates | [Day 047](./Day047) |
 | 048 | Flask Forms | [Day 048](./Day048) |
+| 049 | SQLite Database | [Day 049](./Day049) |
 
 
 ## Author
