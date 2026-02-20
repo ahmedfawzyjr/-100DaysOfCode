@@ -1,0 +1,27 @@
+# Day 051: RESTful APIs
+
+## 📅 Date: Day 51
+
+## 🎯 Today's Objectives
+- Learn restful apis concepts
+- Practice implementation
+- Build practical examples
+
+## 📝 What I Learned
+Today I focused on restful apis and gained hands-on experience with real-world applications.
+
+## 💻 Code Summary
+Implemented various examples demonstrating restful apis techniques.
+
+## 🔗 Resources
+- Official documentation
+- Online tutorials
+- Practice exercises
+
+## ✅ Challenges Completed
+- Core concept implementation
+- Practical exercises
+- Mini project
+
+## 🚀 Tomorrow's Plan
+Continue building on today's knowledge
