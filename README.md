@@ -63,6 +63,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 050 | CRUD Operations | [Day 050](./Day050) |
 | 051 | RESTful APIs | [Day 051](./Day051) |
 | 052 | JSON Handling | [Day 052](./Day052) |
+| 053 | API Authentication | [Day 053](./Day053) |
 
 ## Author
 
