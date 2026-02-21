@@ -62,7 +62,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 049 | SQLite Database | [Day 049](./Day049) |
 | 050 | CRUD Operations | [Day 050](./Day050) |
 | 051 | RESTful APIs | [Day 051](./Day051) |
-
+| 052 | JSON Handling | [Day 052](./Day052) |
 
 ## Author
 
