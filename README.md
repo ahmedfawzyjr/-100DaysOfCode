@@ -66,6 +66,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 053 | API Authentication | [Day 053](./Day053) |
 | 054 | Sessions and Cookies | [Day 054](./Day054) |
 | 055 | File Uploads | [Day 055](./Day055) |
+| 056 | Email Sending | [Day 056](./Day056) |
 
 ## Author
 
