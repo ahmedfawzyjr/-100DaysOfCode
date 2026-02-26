@@ -68,6 +68,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 055 | File Uploads | [Day 055](./Day055) |
 | 056 | Email Sending | [Day 056](./Day056) |
 | 057 | Web Scraping | [Day 057](./Day057) |
+| 058 | Beautiful Soup | [Day 058](./Day058) |
 
 ## Author
 
