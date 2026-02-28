@@ -70,6 +70,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 057 | Web Scraping | [Day 057](./Day057) |
 | 058 | Beautiful Soup | [Day 058](./Day058) |
 | 059 | Selenium Basics | [Day 059](./Day059) |
+| 060 | API Integration | [Day 060](./Day060) |
 
 ## Author
 
