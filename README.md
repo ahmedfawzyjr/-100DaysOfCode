@@ -71,6 +71,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 058 | Beautiful Soup | [Day 058](./Day058) |
 | 059 | Selenium Basics | [Day 059](./Day059) |
 | 060 | API Integration | [Day 060](./Day060) |
+| 061 | NumPy Basics | [Day 061](./Day061) |
 
 ## Author
 
