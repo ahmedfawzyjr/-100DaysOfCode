@@ -72,6 +72,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 059 | Selenium Basics | [Day 059](./Day059) |
 | 060 | API Integration | [Day 060](./Day060) |
 | 061 | NumPy Basics | [Day 061](./Day061) |
+| 062 | NumPy Arrays | [Day 062](./Day062) |
 
 ## Author
 
