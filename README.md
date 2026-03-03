@@ -73,6 +73,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 060 | API Integration | [Day 060](./Day060) |
 | 061 | NumPy Basics | [Day 061](./Day061) |
 | 062 | NumPy Arrays | [Day 062](./Day062) |
+| 063 | Pandas Introduction | [Day 063](./Day063) |
 
 ## Author
 
