@@ -74,6 +74,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 061 | NumPy Basics | [Day 061](./Day061) |
 | 062 | NumPy Arrays | [Day 062](./Day062) |
 | 063 | Pandas Introduction | [Day 063](./Day063) |
+| 064 | DataFrames | [Day 064](./Day064) |
 
 ## Author
 
