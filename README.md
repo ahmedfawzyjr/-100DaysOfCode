@@ -78,6 +78,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 065 | Data Cleaning | [Day 065](./Day065) |
 | 066 | Data Visualization - Matplotlib | [Day 066](./Day066) |
 | 067 | Seaborn Plots | [Day 067](./Day067) |
+| 068 | Statistical Analysis | [Day 068](./Day068) |
 
 ## Author
 
