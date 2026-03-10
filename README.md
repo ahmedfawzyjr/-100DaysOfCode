@@ -80,6 +80,7 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 067 | Seaborn Plots | [Day 067](./Day067) |
 | 068 | Statistical Analysis | [Day 068](./Day068) |
 | 069 | Data Aggregation | [Day 069](./Day069) |
+| 070 | Time Series Data | [Day 070](./Day070) |
 
 ## Author
 
