@@ -1,11 +1,13 @@
 # 100 Days of Code Challenge
 
-I'm undertaking the 100 Days of Code challenge to improve my coding skills and build consistency.
+![Completion](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=checkmarx)
+
+I have successfully completed the 100 Days of Code challenge! This journey has been incredible for improving my coding skills and building consistency.
 
 ## 🚀 Goals
-- Code for at least 1 hour every day
-- Share progress on Twitter/X
-- Build interesting projects
+- ✅ Code for at least 1 hour every day
+- ✅ Share progress on Twitter/X
+- ✅ Build interesting projects
 
 ## Progress
 
@@ -81,6 +83,37 @@ I'm undertaking the 100 Days of Code challenge to improve my coding skills and b
 | 068 | Statistical Analysis | [Day 068](./Day068) |
 | 069 | Data Aggregation | [Day 069](./Day069) |
 | 070 | Time Series Data | [Day 070](./Day070) |
+| 071 | Machine Learning Introduction | [Day 071](./Day071) |
+| 072 | Linear Regression | [Day 072](./Day072) |
+| 073 | Logistic Regression | [Day 073](./Day073) |
+| 074 | Decision Trees | [Day 074](./Day074) |
+| 075 | Random Forest | [Day 075](./Day075) |
+| 076 | K-Means Clustering | [Day 076](./Day076) |
+| 077 | KNN Algorithm | [Day 077](./Day077) |
+| 078 | Model Evaluation | [Day 078](./Day078) |
+| 079 | Feature Engineering | [Day 079](./Day079) |
+| 080 | Cross Validation | [Day 080](./Day080) |
+| 081 | Object-Oriented Programming | [Day 081](./Day081) |
+| 082 | Classes and Objects | [Day 082](./Day082) |
+| 083 | Inheritance | [Day 083](./Day083) |
+| 084 | Polymorphism | [Day 084](./Day084) |
+| 085 | Decorators | [Day 085](./Day085) |
+| 086 | Context Managers | [Day 086](./Day086) |
+| 087 | Multithreading | [Day 087](./Day087) |
+| 088 | Multiprocessing | [Day 088](./Day088) |
+| 089 | Async Programming | [Day 089](./Day089) |
+| 090 | Testing with Pytest | [Day 090](./Day090) |
+| 091 | Project: Todo App | [Day 091](./Day091) |
+| 092 | Project: Weather App | [Day 092](./Day092) |
+| 093 | Project: Blog System | [Day 093](./Day093) |
+| 094 | Project: Chat Application | [Day 094](./Day094) |
+| 095 | Project: E-commerce Cart | [Day 095](./Day095) |
+| 096 | Project: Data Dashboard | [Day 096](./Day096) |
+| 097 | Project: API Service | [Day 097](./Day097) |
+| 098 | Project: ML Model Deployment | [Day 098](./Day098) |
+| 099 | Project: Automation Script | [Day 099](./Day099) |
+| 100 | Final Project: Portfolio Website | [Day 100](./Day100) |
+
 
 ## Author
 
